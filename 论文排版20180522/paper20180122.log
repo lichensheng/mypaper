@@ -1,0 +1,710 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.1.12)  10 MAY 2018 15:35
+entering extended mode
+**paper20180122.tex
+(F:\ËÆ∫Êñá+‰∏ìÂà©\ËÆ∫ÊñáÊéíÁâà\paper20180122.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(F:\Latex\setup\CTEX\UserData\tex\latex\ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (F:\Latex\setup\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\cjk\CJK.sty
+Package: CJK 2008/12/29 4.8.2
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
+Package: MULEenc 2008/12/29 4.8.2
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\cjk\CJK.enc
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box28
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen126
+))
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen127
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks17
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks18
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen135
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(F:\Latex\setup\CTEX\UserData\tex\latex\makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen136
+\extrarowheight=\dimen137
+\NC@list=\toks21
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+\rotheadsize=\dimen138
+\c@nlinenum=\count106
+\TeXr@lab=\toks22
+)
+(F:\Latex\setup\CTEX\UserData\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count107
+\@cmidlb=\count108
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count109
+\@lastruleclass=\count110
+\@thisrulewidth=\dimen151
+)
+(F:\Latex\setup\CTEX\UserData\tex\latex\fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box31
+\shadowsize=\dimen152
+\@Sbox=\box32
+\do@VerbBox=\toks23
+\the@fancyput=\toks24
+\this@fancyput=\toks25
+\EndVerbatimTokens=\toks26
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (F:\Latex\setup\CTEX\UserData\tex\latex\algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count111
+\float@exts=\toks27
+\float@box=\box33
+\@float@everytoks=\toks28
+\@floatcapt=\box34
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks29
+\c@algorithm=\count112
+)
+(F:\Latex\setup\CTEX\UserData\tex\latex\algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count113
+\c@ALG@rem=\count114
+\c@ALG@nested=\count115
+\ALG@tlm=\skip49
+\ALG@thistlm=\skip50
+\c@ALG@Lnr=\count116
+\c@ALG@blocknr=\count117
+\c@ALG@storecount=\count118
+\c@ALG@tmpcounter=\count119
+\ALG@tmplength=\skip51
+) (F:\Latex\setup\CTEX\UserData\tex\latex\algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (F:\Latex\setup\CTEX\UserData\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(F:\Latex\setup\CTEX\UserData\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks30
+)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi .
+\c@ContinuedFloat=\count120
+Package caption Info: float package is loaded.
+) (F:\Latex\setup\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(F:\Latex\setup\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count121
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+(F:\ËÆ∫Êñá+‰∏ìÂà©\ËÆ∫ÊñáÊéíÁâà\paper20180122.aux
+
+LaTeX Warning: Label `fig:figure4' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure4' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure5' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure6' multiply defined.
+
+
+LaTeX Warning: Label `fig:figure5' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+
+LaTeX Warning: Label `IEEEhowto:kopka' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+
+-- Lines per column: 58 (exact).
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(F:\Latex\setup\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen162
+\scratchbox=\box35
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen163
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks32
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 444.
+
+ (F:\Latex\setup\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 444.
+LaTeX Font Info:    Try loading font information for U+msa on input line 449.
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 449.
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 449.
+
+(F:\Latex\setup\CTEX\MiKTeX\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+<Figure1.png, id=1, 624.08156pt x 547.2947pt>
+File: Figure1.png Graphic file (type png)
+ <use Figure1.png>
+Package pdftex.def Info: Figure1.png used on input line 504.
+(pdftex.def)             Requested size: 252.0pt x 220.9934pt.
+ [1{F:/Latex/setup/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd
+}}
+
+
+]
+Missing character: There is no „ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+ [2 <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/Figure1.png>]
+<Fig2.png, id=29, 888.31876pt x 589.4522pt>
+File: Fig2.png Graphic file (type png)
+ <use Fig2.png>
+Package pdftex.def Info: Fig2.png used on input line 583.
+(pdftex.def)             Requested size: 252.0pt x 167.21312pt.
+ [3 <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/Fig2.png>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 3482) in paragraph at lines 703--704
+[]\OT1/ptm/m/n/10 Assuming $\OML/cmm/m/it/10  []$ \OT1/ptm/m/n/10 is greater t
+han $\OML/cmm/m/it/10  [] ; i \OT1/cmr/m/n/10 =$
+ []
+
+<fig3-1.png, id=42, 681.29532pt x 363.60844pt>
+File: fig3-1.png Graphic file (type png)
+ <use fig3-1.png>
+Package pdftex.def Info: fig3-1.png used on input line 734.
+(pdftex.def)             Requested size: 252.0pt x 134.49417pt.
+
+<Fig4(a).png, id=43, 422.32782pt x 310.91156pt>
+File: Fig4(a).png Graphic file (type png)
+ <use Fig4(a).png>
+Package pdftex.def Info: Fig4(a).png used on input line 740.
+(pdftex.def)             Requested size: 252.0pt x 185.52364pt.
+
+<Fig4(b).png, id=44, 271.76532pt x 195.73125pt>
+File: Fig4(b).png Graphic file (type png)
+ <use Fig4(b).png>
+Package pdftex.def Info: Fig4(b).png used on input line 746.
+(pdftex.def)             Requested size: 252.0pt x 181.50551pt.
+
+<Fig4(c).png, id=45, 437.38406pt x 318.43968pt>
+File: Fig4(c).png Graphic file (type png)
+ <use Fig4(c).png>
+Package pdftex.def Info: Fig4(c).png used on input line 752.
+(pdftex.def)             Requested size: 252.0pt x 183.47067pt.
+
+<Fig4(d).png, id=46, 254.45062pt x 186.6975pt>
+File: Fig4(d).png Graphic file (type png)
+ <use Fig4(d).png>
+Package pdftex.def Info: Fig4(d).png used on input line 759.
+(pdftex.def)             Requested size: 252.0pt x 184.908pt.
+
+<Fig4(e).png, id=47, 422.32782pt x 310.91156pt>
+File: Fig4(e).png Graphic file (type png)
+ <use Fig4(e).png>
+Package pdftex.def Info: Fig4(e).png used on input line 766.
+(pdftex.def)             Requested size: 252.0pt x 185.52364pt.
+
+<Fig4(f).png, id=48, 283.0575pt x 198.7425pt>
+File: Fig4(f).png Graphic file (type png)
+ <use Fig4(f).png>
+Package pdftex.def Info: Fig4(f).png used on input line 774.
+(pdftex.def)             Requested size: 252.0pt x 176.9409pt.
+ [5 <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/fig3-1.png> <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/F
+ig4(a).png (PNG copy)>] [6 <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/Fig4(b).png> <F:/ËÆ∫Ê
+ñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/Fig4(c).png (PNG copy)> <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/F
+ig4(d).png> <F:/ËÆ∫Êñá+‰∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/Fig4(e).png (PNG copy)> <F:/ËÆ∫Êñá+‰
+∏ìÂà©/ËÆ∫ÊñáÊéíÁâà/Fig4(f).png>]
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmri7t!
+Missing character: There is no Ä in font ptmri7t!
+Missing character: There is no ô in font ptmri7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [7] (F:\ËÆ∫Êñá+‰∏ìÂà©\ËÆ∫ÊñáÊéíÁâà\paper20180122.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6028 strings out of 495354
+ 86231 string characters out of 3183187
+ 156042 words of memory out of 3000000
+ 9088 multiletter control sequences out of 15000+200000
+ 49799 words of font info for 110 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 36i,17n,39p,1942b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+{F:/Latex/setup/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<F:/Latex/setup/C
+TEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><F:/Latex/setup/CTEX/MiKTe
+X/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><F:/Latex/setup/CTEX/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi5.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mmi9.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><F:/Latex/se
+tup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><F:/Latex/setup/CTEX/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr9.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy5.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6
+.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><F:/L
+atex/setup/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><F:/Latex/setup
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><F:/Latex/setup/CTEX/MiKT
+eX/fonts/type1/public/amsfonts/symbols/msam10.pfb><F:/Latex/setup/CTEX/MiKTeX/f
+onts/type1/public/amsfonts/symbols/msbm10.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts
+/type1/urw/times/utmb8a.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/urw/times/u
+tmbi8a.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><F:/Lat
+ex/setup/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper20180122.pdf (7 pages, 794484 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
