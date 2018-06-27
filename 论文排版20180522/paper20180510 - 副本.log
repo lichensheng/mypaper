@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.1.12)  22 MAY 2018 22:34
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2018.1.12)  27 JUN 2018 21:28
 entering extended mode
 **paper20180510*-*副本.tex
-("F:\论文+专利\论文排版20180522\paper20180510 - 副本.tex"
+
+("C:\Users\17336\Desktop\小论文修改20180626\论文排版20180522\paper2018
+0510 - 副本.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (F:\Latex\setup\CTEX\UserData\tex\latex\ieeetran\IEEEtran.cls
@@ -360,7 +362,8 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen160
 \Gin@req@width=\dimen161
 )
-("F:\论文+专利\论文排版20180522\paper20180510 - 副本.aux"
+("C:\Users\17336\Desktop\小论文修改20180626\论文排版20180522\paper2018
+0510 - 副本.aux"
 
 LaTeX Warning: Label `fig:figure4' multiply defined.
 
@@ -584,15 +587,18 @@ d}}
 Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
+ [2 <C:/Users/17336/Desktop/小论文修改20180626/论文排版20180522/Figure
+1.png>]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 553.
- [2 <F:/论文+专利/论文排版20180522/Figure1.png>]
-<Fig2(2).png, id=24, 888.31876pt x 589.4522pt>
+
+<Fig2(2).png, id=23, 888.31876pt x 589.4522pt>
 File: Fig2(2).png Graphic file (type png)
  <use Fig2(2).png>
 Package pdftex.def Info: Fig2(2).png used on input line 576.
 (pdftex.def)             Requested size: 252.0pt x 167.21312pt.
- [3 <F:/论文+专利/论文排版20180522/Fig2(2).png>]
+ [3 <C:/Users/17336/Desktop/小论文修改20180626/论文排版20180522/Fig2(2
+).png>]
 Underfull \hbox (badness 2334) in paragraph at lines 710--711
 []\OT1/ptm/m/n/10 Assuming $\OML/cmm/m/it/10  []$ \OT1/ptm/m/n/10 is greater t
 han $\OML/cmm/m/it/10  []$\OT1/ptm/m/n/10 , $\OML/cmm/m/it/10 i \OT1/cmr/m/n/1
@@ -616,6 +622,9 @@ File: figure7.pdf Graphic file (type pdf)
  <use figure7.pdf>
 Package pdftex.def Info: figure7.pdf used on input line 754.
 (pdftex.def)             Requested size: 214.20154pt x 176.5593pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 <figure5.pdf, id=39, 359.09055pt x 281.92828pt>
 File: figure5.pdf Graphic file (type pdf)
@@ -650,11 +659,13 @@ Package pdftex.def Info: figure9.pdf used on input line 782.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <F:/论文+专利/论文排版20180522/fig3-1.png> <F:/论文+专利/论文�
-��版20180522/figure4.pdf> <F:/论文+专利/论文排版20180522/figure7.pdf>]
-[6 <F:/论文+专利/论文排版20180522/figure5.pdf> <F:/论文+专利/论文
-排版20180522/figure8.pdf> <F:/论文+专利/论文排版20180522/figure6.pdf>
- <F:/论文+专利/论文排版20180522/figure9.pdf>]
+[5 <C:/Users/17336/Desktop/小论文修改20180626/论文排版20180522/fig3-1.
+png> <C:/Users/17336/Desktop/小论文修改20180626/论文排版20180522/figur
+e4.pdf>] [6 <C:/Users/17336/Desktop/小论文修改20180626/论文排版2018052
+2/figure7.pdf> <C:/Users/17336/Desktop/小论文修改20180626/论文排版2018
+0522/figure5.pdf> <C:/Users/17336/Desktop/小论文修改20180626/论文排版2
+0180522/figure8.pdf> <C:/Users/17336/Desktop/小论文修改20180626/论文排�
+��20180522/figure6.pdf>]
 Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
@@ -682,15 +693,17 @@ Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
 Missing character: There is no � in font ptmr7t!
- [7]
-("F:\论文+专利\论文排版20180522\paper20180510 - 副本.aux")
+ [7 <C:/Users/17336/Desktop/小论文修改20180626/论文排版20180522/figure
+9.pdf>]
+("C:\Users\17336\Desktop\小论文修改20180626\论文排版20180522\paper2018
+0510 - 副本.aux")
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  5997 strings out of 495354
- 86106 string characters out of 3183187
+ 86316 string characters out of 3183187
  156042 words of memory out of 3000000
  9072 multiletter control sequences out of 15000+200000
  44639 words of font info for 90 fonts, out of 3000000 for 9000
@@ -712,7 +725,7 @@ onts/symbols/msbm10.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/urw/times/utmb8
 a.pfb><F:/Latex/setup/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><F:/Latex/s
 etup/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><F:/Latex/setup/CTEX/MiKTeX/f
 onts/type1/urw/times/utmri8a.pfb>
-Output written on "paper20180510 - 副本.pdf" (7 pages, 729012 bytes).
+Output written on "paper20180510 - 副本.pdf" (7 pages, 729500 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
